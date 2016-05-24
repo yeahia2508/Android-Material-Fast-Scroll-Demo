@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
 
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
@@ -16,5 +16,17 @@
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="PinnedHeader">
+    <item name="android:background">?android:colorBackground</item>
+    <item name="android:gravity">center_vertical|left</item>
+    <item name="android:paddingLeft">10dp</item>
+    <item name="android:paddingRight">10dp</item>
+    <item name="android:textAllCaps" tools:targetApi="ice_cream_sandwich">true</item>
+    <item name="textAllCaps">true</item>
+    <item name="android:textColor">#FF000000</item>
+    <item name="android:textSize">14sp</item>
+    <item name="android:textStyle">bold</item>
+    </style>
 
 </resources>
