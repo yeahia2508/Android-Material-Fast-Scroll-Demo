@@ -42,7 +42,6 @@
                 android:singleLine="true"
                 android:text="User Name"
                 android:textSize="20sp"
-                android:textColor="@android:color/black"
                 tools:ignore="HardcodedText,NewApi"/>
 
         </LinearLayout>
