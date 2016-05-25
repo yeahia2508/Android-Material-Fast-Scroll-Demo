@@ -1,6 +1,6 @@
 # README #
 
-[Link Text](http://gph.is/1Wh2poR)
+(http://gph.is/1Wh2poR)
 
 **This is Andorid Material Fast Scroll Feature Example Repository**
 
