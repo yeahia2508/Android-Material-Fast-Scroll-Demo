@@ -1,6 +1,6 @@
 # This is Andorid Material Fast Scroll Feature Example Repository #
 
-![Screenshot_2016-05-25-07-35-01.png](https://bitbucket.org/repo/aMkdBd/images/72846184-Screenshot_2016-05-25-07-35-01.png)
+![TinyTake25-05-2016-06-44-44.gif](https://bitbucket.org/repo/aMkdBd/images/2262533032-TinyTake25-05-2016-06-44-44.gif)
 
 *Used Library Link : https://github.com/AndroidDeveloperLB/ListViewVariants*
 
